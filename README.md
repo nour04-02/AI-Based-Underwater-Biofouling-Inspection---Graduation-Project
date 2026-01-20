@@ -3,7 +3,7 @@
 An AI system for detecting, classifying, and segmenting biofouling on underwater ship hulls using YOLOv8.
 
 The goal is to reduce reliance on dangerous manual underwater inspections and provide consistent, data-driven assessment.
-
+---
 
 
 ## Problem
