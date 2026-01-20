@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/dataset_processed1000/images/train
+val: /content/drive/MyDrive/dataset_processed1000/images/val
+test: /content/drive/MyDrive/dataset_processed1000/images/test
+nc: 4
+names: ["Clean", "Light", "Moderate", "Heavy"]
