@@ -19,7 +19,7 @@ Biofouling increases fuel consumption, maintenance costs, and harms marine life.
   Surfaces are classified into four levels: Clean, Light, Moderate, Heavy.
 
 - **Biofouling Segmentation:**  
-  YOLOv8-based segmentation is intended to localize fouling regions at the pixel level.
+  segmentation is intended to localize fouling regions at the pixel level.
 
 - **Models Used:**  
   YOLOv8 Nano and YOLOv8 Small  
