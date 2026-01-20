@@ -4,7 +4,7 @@ An AI system for detecting, classifying, and segmenting biofouling on underwater
 
 The goal is to reduce reliance on dangerous manual underwater inspections and provide consistent, data-driven assessment.
 
----
+
 
 ## Problem
 
